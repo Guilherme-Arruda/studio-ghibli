@@ -11,6 +11,7 @@ const GlobalStyle = createGlobalStyle`
   body {
     background: ${({ theme }) => theme.backgroundColor};
     color: ${({ theme }) => theme.color};
+    transition: all 0.3s;
   }
 
   ol, ul {

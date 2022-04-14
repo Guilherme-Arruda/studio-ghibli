@@ -7,6 +7,7 @@ const MovieCard = styled.li`
   gap: 1rem;
 
   .image-wrapper {
+    position: relative;
     width: 250px;
     height: 375px;
     border-radius: 0.75rem;

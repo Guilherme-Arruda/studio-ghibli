@@ -29,7 +29,7 @@ const NavBar = () => {
               Star this project
             </Nav.Link>
             <Nav.Link
-              href="https://github.com/Guilherme-Arruda/studi-ghibli/fork"
+              href="https://github.com/Guilherme-Arruda/studio-ghibli/fork"
               target="_blank"
               className="d-flex align-items-center"
             >
